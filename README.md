@@ -34,6 +34,10 @@ $ echo "Let's build something cool together →"
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github.com/Rhckjf/Rhckjf/raw/main/assets/analytics-grid.svg" alt="GitHub Stats Dashboard" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Rhckjf&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" width="47%"/>
   <img src="https://streak-stats.demolab.com/?user=Rhckjf&theme=dark&hide_border=true&background=00000000&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" alt="GitHub Streak" width="47%"/>
 </p>
@@ -43,16 +47,20 @@ $ echo "Let's build something cool together →"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhckjf&theme=react-dark&hide_border=true&color=58a6ff&line=3fb950&point=8b5cf6" alt="Contribution Graph" width="47%"/>
 </p>
 
-## 🏆 Trophies
+## 🌐 Tech Sphere
 
 <p align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Rhckjf&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github.com/Rhckjf/Rhckjf/raw/main/assets/tech-sphere.svg" alt="Orbital Toolbelt" width="100%"/>
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Rhckjf/Rhckjf/raw/main/github-snake-dark.svg" alt="Contribution Snake" width="80%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rhckjf/Rhckjf/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rhckjf/Rhckjf/output/snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rhckjf/Rhckjf/output/snake.svg" width="80%" />
+  </picture>
 </p>
 
 ---
