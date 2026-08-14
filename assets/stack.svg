@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Tech stack">
+  <defs>
+    <linearGradient id="ink2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#131311"/>
+      <stop offset="100%" stop-color="#0a0a09"/>
+    </linearGradient>
+    <pattern id="grid2" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="460" fill="url(#ink2)"/>
+  <rect width="1200" height="460" fill="url(#grid2)"/>
+
+  <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace">
+    <text x="80" y="72" font-size="26" fill="#f0eee4">Stack</text>
+    <text x="154" y="72" font-size="15" fill="#7d7d72" letter-spacing="2">/ TOOLS I USE</text>
+  </g>
+
+  <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace">
+    <g>
+      <text x="80" y="130" font-size="13" fill="#5f5f56" letter-spacing="3">FRONTEND</text>
+      <g font-size="17">
+        <rect x="80" y="146" width="120" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="104" cy="165" r="4" fill="#c8ff4a"/>
+        <text x="120" y="172" fill="#e8e6db">React</text>
+        <rect x="212" y="146" width="176" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="236" cy="165" r="4" fill="#c8ff4a"/>
+        <text x="252" y="172" fill="#e8e6db">TypeScript</text>
+        <rect x="400" y="146" width="120" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="424" cy="165" r="4" fill="#c8ff4a"/>
+        <text x="440" y="172" fill="#e8e6db">Vite</text>
+        <rect x="532" y="146" width="180" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="556" cy="165" r="4" fill="#c8ff4a"/>
+        <text x="572" y="172" fill="#e8e6db">Tailwind</text>
+      </g>
+    </g>
+
+    <g>
+      <text x="80" y="228" font-size="13" fill="#5f5f56" letter-spacing="3">BACKEND &amp; DATA</text>
+      <g font-size="17">
+        <rect x="80" y="244" width="140" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="104" cy="263" r="4" fill="#c8ff4a"/>
+        <text x="120" y="270" fill="#e8e6db">Node.js</text>
+        <rect x="232" y="244" width="140" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="256" cy="263" r="4" fill="#c8ff4a"/>
+        <text x="272" y="270" fill="#e8e6db">Express</text>
+        <rect x="384" y="244" width="132" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="408" cy="263" r="4" fill="#c8ff4a"/>
+        <text x="424" y="270" fill="#e8e6db">Prisma</text>
+        <rect x="528" y="244" width="132" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="552" cy="263" r="4" fill="#c8ff4a"/>
+        <text x="568" y="270" fill="#e8e6db">REST&nbsp;API</text>
+      </g>
+    </g>
+
+    <g>
+      <text x="80" y="326" font-size="13" fill="#5f5f56" letter-spacing="3">ALSO WORKED WITH</text>
+      <g font-size="17">
+        <rect x="80" y="342" width="132" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="104" cy="361" r="4" fill="#7d7d72"/>
+        <text x="120" y="368" fill="#b8b6aa">Python</text>
+        <rect x="224" y="342" width="104" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="248" cy="361" r="4" fill="#7d7d72"/>
+        <text x="264" y="368" fill="#b8b6aa">PHP</text>
+        <rect x="340" y="342" width="100" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="364" cy="361" r="4" fill="#7d7d72"/>
+        <text x="380" y="368" fill="#b8b6aa">Java</text>
+        <rect x="452" y="342" width="150" height="38" rx="19" fill="#1a1a18" stroke="#2c2c27" stroke-width="1"/>
+        <circle cx="476" cy="361" r="4" fill="#7d7d72"/>
+        <text x="492" y="368" fill="#b8b6aa">Firebase</text>
+      </g>
+    </g>
+  </g>
+
+  <rect x="0" y="458" width="1200" height="2" fill="#ffffff" opacity="0.06"/>
+</svg>
