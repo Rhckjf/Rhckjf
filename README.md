@@ -35,7 +35,7 @@ $ echo "Let's build something cool together →"
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Rhckjf&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhckjf&theme=dark&hide_border=true&background=00000000&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" alt="GitHub Streak" width="47%"/>
+  <img src="https://streak-stats.demolab.com/?user=Rhckjf&theme=dark&hide_border=true&background=00000000&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" alt="GitHub Streak" width="47%"/>
 </p>
 
 <p align="center">
