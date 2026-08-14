@@ -11,7 +11,7 @@ Currently working on **SIRELA**, a reservation and queue management system for
 public services.
 
 <p align="center">
-  <img src="https://github.com/Rhckjf/Rhckjf/raw/main/assets/stack.svg" alt="Tech stack" width="100%"/>
+  <img src="https://github.com/Rhckjf/Rhckjf/raw/main/assets/stack.svg?v=2" alt="Tech stack" width="100%"/>
 </p>
 
 ## Selected work
