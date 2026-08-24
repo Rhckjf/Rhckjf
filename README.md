@@ -21,7 +21,7 @@ $ echo "Let's build something cool together →"
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Frontend | Backend & Data | Languages | Tools |
 | -------- | -------------- | --------- | ----- |
@@ -31,7 +31,7 @@ $ echo "Let's build something cool together →"
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github.com/Rhckjf/Rhckjf/raw/main/assets/analytics-grid.svg" alt="GitHub Stats Dashboard" width="100%"/>
@@ -47,13 +47,13 @@ $ echo "Let's build something cool together →"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhckjf&theme=react-dark&hide_border=true&color=58a6ff&line=3fb950&point=8b5cf6" alt="Contribution Graph" width="47%"/>
 </p>
 
-## 🌐 Tech Sphere
+##  Tech Sphere
 
 <p align="center">
   <img src="https://github.com/Rhckjf/Rhckjf/raw/main/assets/tech-sphere.svg" alt="Orbital Toolbelt" width="100%"/>
 </p>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <picture>
@@ -65,7 +65,7 @@ $ echo "Let's build something cool together →"
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ihsan-ramadhan-415b7a307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
